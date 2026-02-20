@@ -81,8 +81,11 @@ Each program has a corresponding documentation file (`doc_<number>.md`) that inc
 
 ## Author
 
+Krish Ghimire
+CS'I'
+Roll no:24
 Created as part of DSA course assignment.
 
 ## Note
 
-All programs are written in C and tested on Linux environment.
+All programs are written in C and tested on Linux environment. 
